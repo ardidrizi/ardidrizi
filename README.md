@@ -1,124 +1,46 @@
-<!-- ### Hi there 👋
+# Ardian Idrizi 👋
+Full Stack Developer based in Berlin (open to Remote/Hybrid).  
+I build clean, production ready web apps with Ruby on Rails, JavaScript/TypeScript, React, PostgreSQL, and Docker.
 
+🌍 Location: Berlin  
+💼 Open to: Full Stack, Frontend, Backend (Junior → Mid, internships and freelance too)  
+⚡ Available: immediately, full right to work in Germany  
+🗣️ Languages: English (fluent), German (B1)
 
-**arddbre1/arddbre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Featured projects
 
-Here are some ideas to get you started:
+### Fullstack E Shop
+A full stack e commerce app with real production structure and deployment.  
+Live: https://fullstack-eshop-production.up.railway.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### SeniorenAllTagPlus
+Team project built during bootcamp. Authentication and real app flows.  
+Live: https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/users/sign_in
 
-<!-- ### Hi there 👋 I'm Ardian!  
-<br/>  -->
+### Doodler Game
+A browser game built with JavaScript.  
+Live: https://velvety-granita-b25b3c.netlify.app/
 
-![Profile views counter](https://komarev.com/ghpvc/?username=arddbre1&&style=flat-square)  
-  
+### JavaScript Quiz App
+A quiz project focused on core JavaScript logic and UI.  
+Repo: https://github.com/ardidrizi/javascript-quiz-project
 
+## Tech stack
+Frontend: React, TypeScript, JavaScript, HTML, CSS, Tailwind  
+Backend: Ruby on Rails, Node.js, REST APIs  
+Database: PostgreSQL, SQL, Prisma, MongoDB  
+DevOps: Docker, Linux, Git, GitHub
 
-<!--
-**arddbre1/arddbre1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I value
+Readable code  
+Fast feedback loops  
+Shipping features end to end  
+Practical testing and stability
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Hello, I'm Ardian! 👋
-
-I'm passionate about coding, exploring new technologies, and building awesome projects. 
-
-
-Let's Connect!
-  
-
-
-<a href="https://twitter.com/ardianidrizi1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ardian-idrizi-b41880217" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-
-<br/>  
-
-## Some Projects
-
-### Project 1
-
-- **Description:** Team Lead.
-- **Link:** [SeniorenAllTagPlus](https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/)
-- **Technologies Used:** Ruby on Rails, APIs, Stimulus JavaScript, Devise, WebSocket, Action Cable, Mapbox.
-
-### Project 2
-
-- **Description:** Collaborated on the full-stack development of a platform for buying and selling cars, actively contributing to the implementation of key features.
-- **Link:** [UsedCarHub](https://usedcarhub-5728d4888e9a.herokuapp.com/)
-- **Technologies Used:** Ruby on Rails, APIs, Stimulus JavaScript, Devise.
-
-
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="25" /></a>  
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arddbre1&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arddbre1&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-
-
-
-<br />
-
-----
+## Contact
+GitHub: https://github.com/ardidrizi  
+Portfolio projects: 
+1. https://fullstack-eshop-production.up.railway.app/
+2. https://velvety-granita-b25b3c.netlify.app/
+LinkedIn: add your LinkedIn link here  
+Email: ardianidizi@gmail.com
