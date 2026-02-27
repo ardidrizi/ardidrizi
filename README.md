@@ -11,11 +11,11 @@ I build clean, production ready web apps with Ruby on Rails, JavaScript/TypeScri
 
 ### Fullstack E Shop
 A full stack e commerce app with real production structure and deployment.  
-Live: https://fullstack-eshop-production.up.railway.app/
+Live: https://fullstack-eshop.vercel.app/
 
 ### SeniorenAllTagPlus
 Team project built during bootcamp. Authentication and real app flows.  
-Live: https://sennioren-all-tag-plus-30bf76768159.herokuapp.com/users/sign_in
+Live: https://senioren-all-tag-plus-c79d436cda54.herokuapp.com/
 
 ### Doodler Game
 A browser game built with JavaScript.  
