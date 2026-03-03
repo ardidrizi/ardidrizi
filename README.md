@@ -42,5 +42,5 @@ GitHub: https://github.com/ardidrizi
 Portfolio projects: 
 1. https://fullstack-eshop-production.up.railway.app/
 2. https://velvety-granita-b25b3c.netlify.app/
-LinkedIn: add your LinkedIn link here  
+LinkedIn: https://www.linkedin.com/in/ardidrizi/
 Email: ardianidizi@gmail.com
